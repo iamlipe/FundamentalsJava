@@ -1,6 +1,6 @@
-package exception.bankAccount.model.entities;
+package exceptions.bankAccount.model.entities;
 
-import exception.checkInHotel.model.exceptions.DomainException;
+import exceptions.checkInHotel.model.exceptions.DomainException;
 
 public class Account {
     private final Integer number;

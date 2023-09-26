@@ -1,4 +1,4 @@
-package exception.bankAccount.model.exceptions;
+package exceptions.bankAccount.model.exceptions;
 
 public class DomainException extends RuntimeException {
 

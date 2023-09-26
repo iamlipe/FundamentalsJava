@@ -1,7 +1,7 @@
-package exception.bankAccount;
+package exceptions.bankAccount;
 
-import exception.bankAccount.model.entities.Account;
-import exception.checkInHotel.model.exceptions.DomainException;
+import exceptions.bankAccount.model.entities.Account;
+import exceptions.checkInHotel.model.exceptions.DomainException;
 
 import java.util.Locale;
 import java.util.Scanner;

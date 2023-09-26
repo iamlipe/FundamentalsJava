@@ -1,4 +1,4 @@
-package exception.listNames;
+package exceptions.listNames;
 
 import java.util.InputMismatchException;
 import java.util.Locale;

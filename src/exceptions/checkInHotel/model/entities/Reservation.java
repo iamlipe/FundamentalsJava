@@ -1,6 +1,6 @@
-package exception.checkInHotel.model.entities;
+package exceptions.checkInHotel.model.entities;
 
-import exception.checkInHotel.model.exceptions.DomainException;
+import exceptions.checkInHotel.model.exceptions.DomainException;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
